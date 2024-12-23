@@ -1,5 +1,5 @@
 apache/seata-server:2.3.0
-nacos/nacos-server:2.4.2.1
+shardingsphere/sharding-proxy:3.1.0
 nacos/nacos-server:v2.4.3
 mysql:5.7
 jlesage/mkvtoolnix
