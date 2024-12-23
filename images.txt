@@ -2,4 +2,4 @@ apache/seata-server:2.3.0
 shardingsphere/sharding-proxy:3.1.0
 nacos/nacos-server:v2.4.3
 mysql:5.7
-jlesage/mkvtoolnix
+jlesage/mkvtoolnix:v24.12.1
