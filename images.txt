@@ -1,3 +1,4 @@
+rabbitmq:4.0.5-management
 seataio/seata-server:1.8.0.2
 apache/seata-server:2.3.0
 shardingsphere/sharding-proxy:3.1.0
