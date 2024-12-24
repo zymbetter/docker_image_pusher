@@ -19,3 +19,4 @@ nacos/nacos-server:2.0.2
 mysql:9.1.0
 mysql:5.7
 jlesage/mkvtoolnix:v24.12.1
+jlesage/mkvtoolnix:v24.09.1
