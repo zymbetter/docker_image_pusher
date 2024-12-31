@@ -1,1 +1,1 @@
-lovechen/embyserver:4.7.14.0
+jellyfin/jellyfin:2024123005
