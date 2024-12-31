@@ -1,1 +1,1 @@
-jellyfin/jellyfin:2024123005
+jellyfin/jellyfin:2024123005-amd64
