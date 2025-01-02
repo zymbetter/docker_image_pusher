@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:17.7.0-ce.0
+gitblit/gitblit:1.9.3
