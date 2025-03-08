@@ -1,1 +1,2 @@
+tinymediamanager/tinymediamanager:latest
 gitblit/gitblit:1.9.3
