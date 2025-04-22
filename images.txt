@@ -1,2 +1,2 @@
+tomcat:9.0.104-jdk8-corretto-al2
 tinymediamanager/tinymediamanager:latest
-gitblit/gitblit:1.9.3
