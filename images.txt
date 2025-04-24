@@ -1,2 +1,2 @@
-openjdk:25-ea-17-jdk-slim
-openjdk:11-ea-17-jre
+openjdk:11-jre-bullseye
+openjdk:25-ea-11-jdk-slim
