@@ -1,2 +1,1 @@
-openjdk:11-jre-bullseye
-openjdk:25-ea-11-jdk-slim
+openjdk:8-jre
