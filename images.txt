@@ -1,1 +1,1 @@
-openjdk:8-jre-buster
+tomcat:9.0.80
