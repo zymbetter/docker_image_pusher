@@ -1,1 +1,1 @@
-tomcat:9.0.104-jre8
+openjdk:8-jre-slim
