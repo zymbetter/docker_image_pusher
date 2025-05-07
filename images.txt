@@ -1,1 +1,2 @@
-mcr.microsoft.com/mssql/server:2022-CU12-GDR1-ubuntu-22.04
+mysql:5.7.43
+docker pull mysql:5.7.42-debian
