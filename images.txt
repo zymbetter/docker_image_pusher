@@ -1,2 +1,2 @@
 mysql:5.7.43
-docker pull mysql:5.7.42-debian
+mysql:5.7.42-debian
