@@ -1,2 +1,1 @@
-luodaoyi/kms-server:1113
-postgres:17.5
+linuxserver/transmission:4.0.6
