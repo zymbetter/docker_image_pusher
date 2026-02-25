@@ -1,2 +1,2 @@
-openjdk:25-rc-jdk-slim
-openjdk:25-rc-slim
+openjdk:17-ea-jdk-slim
+openjdk:17-ea-slim
