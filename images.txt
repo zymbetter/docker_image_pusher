@@ -1,1 +1,1 @@
-openjdk:8u342-jdk-slim
+openjdk:21-rc-jdk-slim
