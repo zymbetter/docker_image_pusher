@@ -1,1 +1,1 @@
-openjdk:8u342-jre-bullseye
+openjdk:8u342-jdk-slim-bullseye
