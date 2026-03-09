@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:5.1.4
+joinsunsoft/docker.ui:1.0.1
