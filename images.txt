@@ -1,1 +1,1 @@
-joinsunsoft/docker.ui:1.0.1
+ollama/ollama:0.17.8-rc1
