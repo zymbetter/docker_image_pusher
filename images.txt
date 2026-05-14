@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:latest
+docker pull ollama/ollama:0.23.4
