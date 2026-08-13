@@ -1,1 +1,2 @@
+ghcr.io/openclaw/openclaw:latest
 linuxserver/transmission:4.1.3
