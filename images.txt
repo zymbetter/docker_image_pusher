@@ -1,2 +1,2 @@
-ghcr.io/openclaw/openclaw:latest
+ghcr.io/openclaw/openclaw:2026.7.1
 linuxserver/transmission:4.1.3
