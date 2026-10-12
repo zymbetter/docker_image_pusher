@@ -1,3 +1,4 @@
+linuxserver/faster-whisper:amd64-3.8.1
 chromadb/chroma:1.5.9
 mcr.microsoft.com/playwright:v1.58.2-jammy
 ghcr.io/openclaw/openclaw:2026.6.34
