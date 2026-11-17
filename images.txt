@@ -1,1 +1,1 @@
-postgres:17.12
+nacos/nacos-server:v3.3.0
