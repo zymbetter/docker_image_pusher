@@ -1,1 +1,1 @@
-apache/seata-server:2.6.0.jdk21
+apache/seata-server:2.6.0.jdk17
